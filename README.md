@@ -11,8 +11,6 @@ This project is a C++ program that evaluates **postfix (Reverse Polish Notation)
 - Modular design with test coverage via unit tests.
 - Optional extra credit support for real (floating-point) number evaluation.
 
----
-
 ## Concepts Demonstrated
 
 - Stack-based expression evaluation
