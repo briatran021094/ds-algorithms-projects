@@ -1,6 +1,6 @@
 # Postfix Expression Evaluator (C++)
 
-This project is a C++ program that evaluates **postfix (Reverse Polish Notation)** arithmetic expressions using the Standard Template Library (STL) `stack` class. It is designed as a command-line tool for practicing stack-based evaluation and exploring expression parsing in a structured, modular codebase.
+This project is a C++ program that evaluates **postfix** arithmetic expressions using the Standard Template Library (STL) `stack` class. It is designed as a command-line tool for practicing stack-based evaluation and exploring expression parsing in a structured, modular codebase.
 
 ## Features
 
