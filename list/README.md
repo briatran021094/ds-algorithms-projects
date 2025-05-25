@@ -19,9 +19,9 @@ Although the scope of this repository is limited to these three implementations 
 
 | File | Description |
 |------|-------------|
-| `dlinkedlist.cpp` | 🛠 Your implementation of the `DoubleLinkedList` class |
-| `sorted_double_linked_list.cpp` | 🛠 Your implementation of the `SortedDoubleLinkedList` class |
-| `vsarray.cpp` | 🛠 Your implementation of the variable-size array list |
+| `dlinkedlist.cpp` | Your implementation of the `DoubleLinkedList` class |
+| `sorted_double_linked_list.cpp` | Your implementation of the `SortedDoubleLinkedList` class |
+| `vsarray.cpp` | Your implementation of the variable-size array list |
 | `test.cpp` | Contains the unit test cases (do not modify) |
 | `makefile` | Provided for building the project |
 | `*.h` and other `*.cpp` files | Base classes (Comparable, Object, Person, etc.), **do not modify** |
