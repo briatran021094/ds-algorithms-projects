@@ -1,7 +1,5 @@
 # Polynomial Class
 
-## Overview
-
 This repository includes my full implementation of a `Polynomial` class as part of a school assignment for CSC2431 (Data Structures II). The class demonstrates use of dynamic memory and the implementation of various operations on polynomials, including addition, subtraction, multiplication, evaluation, derivation, and more.
 
 > Note: This project was assigned in class and is included here only to show my ability to implement all parts of it. It is not intended as a standalone project. It complements the main list-related ADT projects I focused on this quarter.
