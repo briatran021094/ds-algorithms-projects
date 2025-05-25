@@ -8,8 +8,6 @@ This repository includes my implementations of various Abstract Data Type (ADT) 
 
 Although the scope of this repository is limited to these three implementations (as required by the assignment), they effectively demonstrate my understanding of dynamic memory management, pointer operations, and data structure design in C++. These implementations were designed to integrate with a provided test suite and passed all unit and memory leak tests successfully.
 
----
-
 ## Learning Objectives
 
 - Practice implementing ADT Lists using:
@@ -17,9 +15,7 @@ Although the scope of this repository is limited to these three implementations 
   - **Double Linked Lists** with full CRUD operations
   - **Sorted Linked Lists** that maintain ascending order automatically
 
----
-
-## 🗂Project Structure
+## Project Structure
 
 | File | Description |
 |------|-------------|
