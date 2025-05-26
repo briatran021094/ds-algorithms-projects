@@ -38,8 +38,6 @@ Includes a Python version that mirrors the stack-based logic of the C++ implemen
 - Building testable, reusable components in both **C++ and Python**
 - Using command-line tools and memory debuggers like `valgrind` (for C++)
 
----
-
 Feel free to explore the subfolders for both the C++ and Python versions of each project!
 
 - Implementing and using **Abstract Data Types (ADTs)**
