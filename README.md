@@ -15,16 +15,12 @@ Custom `List` class implemented using a dynamically resizing array. Key features
 - Demonstrates dynamic memory management and list-based abstraction  
 Also includes a Python implementation of the list with equivalent functionality.
 
----
-
 ### `polynomial/`
 Implementation of a `Polynomial` ADT supporting:
 - Polynomial addition, subtraction, multiplication  
 - Evaluation and derivation  
 - Extra credit: Polynomial division and definite integration  
 Python version available with matching features and method structure.
-
----
 
 ### `postfix/`
 A complete and self-contained implementation of a **Postfix Expression Evaluator**:
@@ -33,7 +29,6 @@ A complete and self-contained implementation of a **Postfix Expression Evaluator
 - Command-line interaction and error handling
 Includes a Python version that mirrors the stack-based logic of the C++ implementation.
 
----
 
 ## Learning Goals
 
